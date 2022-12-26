@@ -1,7 +1,5 @@
 ## Java Layered Architecture Demo
 
----
-
 This project was developed for the purpose of experiencing that implementation OOP principles. 
 
 The project includes a console app in capable of that simulating a layered architecture, and it consists of following layers:
